@@ -1,2 +1,4 @@
 .sync_state.json
 sync_tardis.sh
+sync_tardis.log
+.syncignore
